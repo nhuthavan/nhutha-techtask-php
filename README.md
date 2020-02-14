@@ -6,7 +6,7 @@ PHP version >= 7.2
   
   __2. Clone or download project files
   
-    Using this command for clone: git clone 
+    Using this command for clone: git clone  https://github.com/nhuthavan/nhutha-techtask-php.git
     
   __3. Install composer
   
