@@ -2,8 +2,8 @@
 Symfony Framework version >=4.4
 PHP version >= 7.2
 # Installation
-  __1. Install Git, Composer
-  __2. Clone or download project files
+  __1. Install Git, Composer __
+  __2. Clone or download project files __
     Using this command for clone: git clone 
   __3. Install composer
     composer install
